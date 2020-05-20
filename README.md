@@ -1,7 +1,7 @@
 # BluePillDebugBluePill
 
 ## Connections
-**Debugger**         **Target**
+**Debugger**    /   **Target**
 - 3.3V ---- 3.3V
 - GND  ---- GND
 - PB1  ---- 3.3V
