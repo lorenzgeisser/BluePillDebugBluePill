@@ -1,6 +1,6 @@
 # BluePillDebugBluePill
 ## Description
-Dets the PC13-LED to the received state '1' or '0'
+Sets the PC13-LED to the received state '1' or '0'
 ## Connections
 |Debugger        |Target                          |
 |----------------|-------------------------------|
